@@ -1,6 +1,6 @@
 {
   "name": "@manumorante/nextjs-picture",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A nextjs future image with delay and fade-in.",
   "main": "index.js",
   "scripts": {
