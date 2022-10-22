@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manumorante/nextjs-picture/issues"
   },
-  "homepage": "https://github.com/manumorante/nextjs-picture#readme"
+  "homepage": "https://github.com/manumorante/nextjs-picture#readme",
+  "publishConfig": {
+    "@manumorante:registry": "https://npm.pkg.github.com"
+  }
 }
