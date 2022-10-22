@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manumorante/nextjs-picture.git"
+    "url": "https://github.com/manumorante/nextjs-picture"
   },
   "author": "",
   "license": "ISC",
